@@ -44,14 +44,6 @@ From what I concluded 2020 for me was literally less productive but I found some
             <td>Duration of the task. Long Term (LT More than or equal to 1Year), Medium Term (MT less than 6 Months) and Short Term (ST less than 1 Month)</td>
         </tr>
         <tr>
-            <td>expected_time_required</td>
-            <td>How many hours its expected to be qualified to be completed.</td>
-        </tr>
-        <tr>
-            <td>actual_time_engaged</td>
-            <td>How much hours I was able to engage myself for that task</td>
-        </tr>
-        <tr>
             <td>parallelism</td>
             <td>Its boolean value N (Not doing something in parallel) and T (Doing something in parallel)</td>
         </tr>
